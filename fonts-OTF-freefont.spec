@@ -1,12 +1,12 @@
 Summary:	Free UCS scalable fonts in OpenType format
 Summary(pl.UTF-8):	Wolnodostępne skalowalne fonty UCS w formacie OpenType
 Name:		fonts-OTF-freefont
-Version:	20080324
+Version:	20080912
 Release:	1
 License:	GPL v2
 Group:		Fonts
 Source0:	http://ftp.gnu.org/gnu/freefont/freefont-otf-%{version}.zip
-# Source0-md5:	192af4416fd0cf029204c69d220c88be
+# Source0-md5:	e584eea29d412192944f78c69f471a66
 URL:		http://www.gnu.org/software/freefont/
 BuildRequires:	unzip
 Requires(post,postun):	fontpostinst
